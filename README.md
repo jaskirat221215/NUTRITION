@@ -5,4 +5,5 @@ Welcome to NutritionInformation, your go-to resource for comprehensive nutrition
 Technologies Used:
 
 Frontend: HTML, CSS, JavaScript
+
 API: https://api.api-ninjas.com/
